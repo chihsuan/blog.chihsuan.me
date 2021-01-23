@@ -1,5 +1,7 @@
 ## blog.chihsuan.me
 
+![CI](https://github.com/chihsuan/blog.chihsuan.me/workflows/CI/badge.svg)
+
 A minimal blog built by [Hugo](https://gohugo.io/) and [hugo-theme-codex](https://github.com/jakewies/hugo-theme-codex) 🍜
 
 - An about page 👋🏻 and a blog 📝
