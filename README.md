@@ -2,8 +2,6 @@
 
 A minimal blog built by [Hugo](https://gohugo.io/) and [hugo-theme-codex](https://github.com/jakewies/hugo-theme-codex) 🍜
 
-![Hugo desktop screenshot](/images/screenshot.png)
-
 - An about page 👋🏻 and a blog 📝
 - Blog posts can be tagged 🏷
 - Mathematical notations are supported with KaTex 📐
