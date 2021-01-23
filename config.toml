@@ -8,10 +8,10 @@ baseURL = "https://blog.chihsuan.me/"
 copyright = "© {year}"
 
 # Add your Disqus shortname here.
-# disqusShortname = ""
+disqusShortname = "blog-chihsuan-me"
 
 # Add your Google Analytics identifier: UA-XXXXXXXX-X
-# googleAnalytics = "" 
+googleAnalytics = "G-J41W0G80RW" 
 
 # Optional params
 [params]
@@ -26,13 +26,13 @@ copyright = "© {year}"
   # facebook = "https://facebook.com/<your handle>"
   # gitlab = "https://gitlab.com/<your handle>"
   # instagram = "https://instagram.com/<your handle>"
-  # linkedin = "<link to your profile>"
+  # linkedin = "https://www.linkedin.com/in/chihsuanhuang/"
   # youtube = "https://www.youtube.com/channel/<your channel>"
   
   # Titles for your icons (shown as tooltips), and also their display order.
   # Currently, these icons are supported: 
   #   "Twitter", "GitHub", "Email", "Facebook", "GitLab", "Instagram", "LinkedIn", "YouTube"
-  iconOrder = ["GitHub"]
+  iconOrder = ["GitHub", "LinkedIn"]
 
   # Metadata for Twitter cards, defaults to params.twitter
   # twitterSite = "@<your handle>"
@@ -65,4 +65,3 @@ copyright = "© {year}"
   name = "Blog"
   title = "Blog"
   url = "/blog"
-
