@@ -9,3 +9,5 @@ tags: []
 math: false
 toc: false
 ---
+
+The first day that created this blog by Hugo!
