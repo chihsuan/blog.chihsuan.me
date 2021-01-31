@@ -5,3 +5,12 @@
 .post__title a:hover {
   opacity: 0.7;
 }
+
+blockquote::before {
+  margin-left: -0.45em;
+  z-index: 0;
+}
+
+.post blockquote {
+  width: 80%;
+}
