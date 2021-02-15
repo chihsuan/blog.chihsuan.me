@@ -7,7 +7,7 @@ tags: ["movie"]
 draft: false
 ---
 
-![andré-chian](/images/andré-chiang.png)
+![andré-chiang](/images/andré-chiang.png)
 
 > 「初心，是溫柔的提醒，是回到原點，是我們思考人生的意義，也是最單純快樂的來源。」
 
